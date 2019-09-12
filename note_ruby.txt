@@ -1,0 +1,1 @@
+gsub stands for global subsitution in ruby.
